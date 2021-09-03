@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Md Modassir Anwar
+- 👋 Hi, I’m Modassir Anwar
 - 👀 I’m interested in Full-stack web development
 - 🌱 I’m currently learning Front-end development
 - 💞️ I’m looking to collaborate on front-end
